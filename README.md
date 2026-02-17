@@ -1,11 +1,18 @@
 <h1>Hi, I'm Blandine! <br/><a href="https://github.com/ngwingallah">Student</a>, <a href="https://www.linkedin.com/in/blandineforntohngwingallah/">Cybersecurity Student</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Java</b>
+  - [University Canteen Inventory Management Application](https://github.com/ngwingallah/Inventory-Management-System)
   
 <h2>🌱 Certifications</h2>
-
+- [Mastercard Cybersecurity virtual experience program on Forage
+August 26, 2024
+ * Completed a job simulation where I served as an analyst on Mastercard’s
+   Security Awareness Team 
+ * Helped identify and report security threats such as phishing 
+ * Analyzed and identified which areas of the business needed more robust
+   security training and implemented training courses and procedures for those
+   teams](https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_PkHEFiDRp59u2NQTy_1724653999209_completion_certificate.pdf))
 <h2>✨ Blog Posts</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
