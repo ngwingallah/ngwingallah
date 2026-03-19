@@ -1,4 +1,5 @@
-<h1>Hi, I'm Blandine! <br/><a href="https://github.com/ngwingallah">Student</a>, <a href="https://www.linkedin.com/in/blandineforntohngwingallah/">Cybersecurity Student</a>
+<h1 align="center">Hi there 👋, I'm Forntoh Ngwing-allah Blandine</h1>
+<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | Penetration Testing & RedTeam</h3>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 - <b>Java</b>
@@ -15,13 +16,9 @@ August 26, 2024
    teams
    (https://www.theforage.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_PkHEFiDRp59u2NQTy_1724653999209_completion_certificate.pdf)
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/blandineforntohngwingallah
-
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/blandine-forntoh-ngwing-allah-66172a24a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
