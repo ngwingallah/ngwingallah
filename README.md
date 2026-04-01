@@ -23,6 +23,11 @@ Passionate about offensive and defensive cybersecurity
 - **Tools:** Splunk, Sysmon, windows 10, Linux
 - **Outcome:** Used real-time logs to identify and correlate threat events following NIST IR standards.
 
+### 🔹 [A Simple Python Port Scanner](https://github.com)
+- **Goal:** Practice python scripting and learning how scanners operate
+- **Tools:** Python
+- **Outcome:** Used my python script to scan IP addresses to find open ports and banner information
+
 ---
   
 ## 📜 Certifications
