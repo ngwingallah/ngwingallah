@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Forntoh Ngwing-allah Blandine</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | Penetration Testing & RedTeam</h3>
+<h3 align="center">Cybersecurity | AI security & red-teaming | Cloud | Detection engineering</h3>
 
 ## 🔐 About Me
 
@@ -17,11 +17,6 @@ Passionate about offensive and defensive cybersecurity
 ---
 
 ## 🧪 Projects
-
-### 🔹 [SIEM Log Monitoring and Threat Detection Lab](https://github.com)
-- **Goal:** Practice threat detection and incident response using a Windows 10 victim machine
-- **Tools:** Splunk, Sysmon, windows 10, Linux
-- **Outcome:** Used real-time logs to identify and correlate threat events following NIST IR standards.
 
 ### 🔹 [A Simple Python Port Scanner](https://github.com)
 - **Goal:** Practice python scripting and learning how scanners operate
