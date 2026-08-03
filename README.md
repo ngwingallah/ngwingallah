@@ -3,7 +3,7 @@
 
 ## 🔐 About Me
 
-I am a final year student at The ICT University Cameroon, Major in Applied ICT in Cyber Security, focused on building real-world skills through practice.
+I am a graduate from The ICT University Cameroon, with a Bachelor of Science in Cyber Security, focused on building real-world skills through practice.
 Passionate about offensive and defensive cybersecurity
 
 💡 Current Direction
