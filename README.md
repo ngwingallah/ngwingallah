@@ -28,6 +28,11 @@ Passionate about offensive and defensive cybersecurity
 - **Tools:** Bash
 - **Outcome:** Bash script that runs multiple recon tools in a sequence
 
+### 🔹 [Microsoft 365 Security Assessment](https://github.com)
+- **Goal:** Assess the security posture of a small fictional design company using Microsoft 365
+- **Tools:** Microsoft 365, Entra ID, Sharepoint, Teams, Powershell, OPNsense, nmap
+- **Outcome:** Delivered assessment report, risk register, change log and admin handoff guide
+
 ---
   
 ## 📜 Certifications
